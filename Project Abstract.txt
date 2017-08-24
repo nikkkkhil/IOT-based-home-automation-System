@@ -1,0 +1,3 @@
+IOT based home automation System:
+
+I designed this system to control the electrical appliances and monitor the room temperature using the mobile application, I used embedded controller board and the home appliances which are physically connected to output ports of this board via relays.Cayenne IOT platform is used to establish wireless communication between the Android phone and embedded devices using MQTT protocol, Mobile application is developed to provide a user-friendly graphical user interface (GUI) for remotely controlling on home appliances and monitoring the values, User will get SMS/email alert if the value reaches set value. Device data captured in real-time enables the execution of triggered events. We can easily keep track of all events.
