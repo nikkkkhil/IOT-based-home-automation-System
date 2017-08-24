@@ -19,7 +19,7 @@
 #include <CayenneMQTTESP8266.h>
 
 char ssid[] = "YUREKA";
-char wifiPassword[] = "123456789";
+char wifiPassword[] = "Alzeimers@14";
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
 char username[] = "d3440110-5840-11e7-9118-bfd202a30a41";
